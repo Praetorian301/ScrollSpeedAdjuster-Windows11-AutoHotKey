@@ -1,4 +1,4 @@
-# **ScrollSpeedAdjuster-Windows11-AutoHotKey**
+# **Scroll Speed Adjuster Windows11-AutoHotKey**
 
 A **lightweight AutoHotKey script** that lets you dynamically change your **system-wide mouse scroll speed** on Windows 11 using customizable hotkeys.
 Perfect for users who need precise scroll control across browsers, code editors, spreadsheets, or games.
