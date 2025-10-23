@@ -51,7 +51,6 @@ If you use **Logitech G Hub**, **Corsair iCUE**, or another tool, simply map two
 
 ## 📂 **Folder Layout**
 
-```
 ScrollSpeedAdjuster-Windows11-AutoHotKey/
 │
 ├── inputTest.py
