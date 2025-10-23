@@ -69,10 +69,10 @@ You can open the `.ahk` file in Notepad or any text editor to adjust:
 **Default configuration:**
 
 ```ahk
-; Preset values
+Preset values
 presetValues := [5, 12, 18, 25]
 
-; Hotkeys
+Hotkeys
 F19::CycleScrollPresets()
 F20::SetScrollLines(5)
 ```
